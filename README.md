@@ -20,10 +20,10 @@ This repository contains code and configuration files for Google Cloud Data Anal
 
 ## Dashboard
 
-![image](https://github.com/user-attachments/assets/10c5484e-72c7-4e12-9b56-0531931ec0f7)
 
+<img width="854" alt="Screenshot 2024-09-18 at 2 53 17 AM" src="https://github.com/user-attachments/assets/faa16a8f-88eb-4a86-aecc-0079f5f8ee50">
+<img width="854" alt="Screenshot 2024-09-18 at 2 58 04 AM" src="https://github.com/user-attachments/assets/e82e1bc4-61f6-4a10-9805-2b72d576d136">
 
-![image](https://github.com/user-attachments/assets/9e6317b5-3f35-422b-9956-5a76ae379fd5)
 
 
 
